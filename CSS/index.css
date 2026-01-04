@@ -1,0 +1,17 @@
+nav li{
+    list-style: none;
+    display: inline;
+    margin: 20px;
+}
+nav{
+    background-color: bisque;
+    text-align: end;
+    
+}
+nav li:hover{
+    background-color: aqua;
+    color: red;
+}
+footer{
+    text-align: center;
+}
