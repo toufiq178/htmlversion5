@@ -1,0 +1,33 @@
+nav ul {
+
+    display: flex;
+    justify-content: end;
+}
+
+nav  li{
+    
+    list-style: none;
+    margin: 10px ;
+
+    
+}
+nav{
+
+    background-color: aqua;
+}
+nav li a{
+
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+
+    
+}
+
+nav li:hover{
+    background-color: gray;
+    color: rgb(39, 184, 34);
+}
+
+nav li a:hover{
+    color: red;
+}
